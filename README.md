@@ -15,6 +15,15 @@ Meet me, Rajesh Pradhan. Aspiring Data Analyst with a passion for turning data i
 <img align="right" alt="GIF" src="https://github.com/RajeshNinja/About_Me/blob/08edfa00f38a37b1e586a001934621237abe18e3/instamart%20dashboard.png" width="771" height="415" />
   
 
+
+
+
+
+
+
+
+
+
 **Talking about Personal Stuffs:**
 
 - 👋 Hi, I’m interested in data visualization, Power BI dashboards, and storytelling through data
