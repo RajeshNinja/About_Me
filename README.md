@@ -10,7 +10,7 @@ All about me
 
 ### Happy to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=saddamskst.saddamskst)
 
-Meet me, Rajesh Pradhan. Aspiring Data Analyst with a passion for turning data into actionable insights. Proficient in SQL, Power BI, and Excel. Eager to contribute to impactful project
+Meet me, Rajesh Pradhan. Aspiring Data Analyst with a passion for turning data into actionable insights. Proficient in SQL, Power BI, and Excel. Eager to contribute to impactful project.
 
 <img align="right" alt="GIF" src="https://github.com/RajeshNinja/About_Me/blob/08edfa00f38a37b1e586a001934621237abe18e3/instamart%20dashboard.png" width="771" height="415" />
  
